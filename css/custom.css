@@ -1,0 +1,95 @@
+.create_comment{
+    max-width: 800px;
+    margin: 50px auto;
+    position: relative;
+    box-shadow: 0 10px 30px 0px rgba(0,0,0,0.1);
+    padding: 30px;
+    /* background-color: black; */
+}
+.create_comment .title{
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 2em;
+    padding-bottom: 20px;
+}
+
+.contact-form .form-field{
+    position:relative;
+    margin: 15px 0;
+}
+.contact-form .input-text{
+    width: 100%;
+    height: 36px;
+    border-width: 0 0 3px 0;
+    border-color: rgb(244,192,28,255);
+}
+.contact-form .input-text-comment{
+    padding-bottom: 100px;
+    width: 100%;
+    border-width: 0 0 3px 0;
+    border-color: rgb(244,192,28,255);
+    font-size: 18px;
+}
+.contact-form .form-field .btn{
+    width: 100%;
+    margin-bottom: 50px;
+    
+}
+.count{
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 2em;
+    padding-bottom: 20px;
+    padding-top: 150px;
+    
+}
+.show_comment{
+    max-width: 800px;
+    margin: -20px auto;
+    position: relative;
+    box-shadow: 0 10px 30px 0px rgba(0,0,0,0.1);
+    padding-bottom: 30px;
+}
+.show_comment .name_field{
+    padding-top: 10px;
+    font-size: 17px;
+    font-weight: 600;
+    
+}
+.show_comment .date_field{
+    padding-top: 25px;
+    font-size: 10px;
+    font-weight: 600;
+    text-align: right;
+
+}
+.show_comment .comment_field{
+    font-family: 'Times New Roman', serif;;
+    padding-top: 10px;
+    border: 1px solid rgb(244,192,28,255);
+    border-width: 5px 0 0 0;
+}
+.show_comment .btn{
+    margin-top: 10px;
+    margin-bottom: -20px;
+    float:right;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    font-size: 12px;
+}
+.show_comment .clear{
+   clear: both;
+}
+.create_comment{
+    max-width: 800px;
+    margin: 50px auto;
+    position: relative;
+    box-shadow: 0 10px 30px 0px rgba(0,0,0,0.1);
+    padding: 30px;
+    /* background-color: black; */
+}
+.reply_form{
+    padding-bottom: 10px;
+}
